@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\sortingZeros\sortingZeros\obj\Debug\net8.0\sortingZeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\sortingZeros\sortingZeros\obj\Debug\net8.0\sortingZeros.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\sortingZeros\sortingZeros\obj\Debug\net8.0\sortingZeros.AssemblyInfo.cs
+C:\Users\Admin\source\repos\sortingZeros\sortingZeros\obj\Debug\net8.0\sortingZeros.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\sortingZeros\sortingZeros\bin\Debug\net8.0\sortingZeros.exe
+C:\Users\Admin\source\repos\sortingZeros\sortingZeros\bin\Debug\net8.0\sortingZeros.deps.json
+C:\Users\Admin\source\repos\sortingZeros\sortingZeros\bin\Debug\net8.0\sortingZeros.runtimeconfig.json
+C:\Users\Admin\source\repos\sortingZeros\sortingZeros\bin\Debug\net8.0\sortingZeros.dll
+C:\Users\Admin\source\repos\sortingZeros\sortingZeros\bin\Debug\net8.0\sortingZeros.pdb
+C:\Users\Admin\source\repos\sortingZeros\sortingZeros\obj\Debug\net8.0\sortingZeros.dll
+C:\Users\Admin\source\repos\sortingZeros\sortingZeros\obj\Debug\net8.0\refint\sortingZeros.dll
+C:\Users\Admin\source\repos\sortingZeros\sortingZeros\obj\Debug\net8.0\sortingZeros.pdb
+C:\Users\Admin\source\repos\sortingZeros\sortingZeros\obj\Debug\net8.0\sortingZeros.genruntimeconfig.cache
+C:\Users\Admin\source\repos\sortingZeros\sortingZeros\obj\Debug\net8.0\ref\sortingZeros.dll
